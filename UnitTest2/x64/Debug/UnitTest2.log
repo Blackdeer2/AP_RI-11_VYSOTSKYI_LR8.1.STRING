@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  UnitTest2.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(700,5): error MSB6006: "CL.exe" exited with code 2.
+C:\Student\PR8.1.STRING\UnitTest2\UnitTest2.cpp(14,4): error C2065: 'string': undeclared identifier
+C:\Student\PR8.1.STRING\UnitTest2\UnitTest2.cpp(14,11): error C2146: syntax error: missing ';' before identifier 'str'
+C:\Student\PR8.1.STRING\UnitTest2\UnitTest2.cpp(14,11): error C2065: 'str': undeclared identifier
+C:\Student\PR8.1.STRING\UnitTest2\UnitTest2.cpp(15,4): error C2065: 'str': undeclared identifier
+C:\Student\PR8.1.STRING\UnitTest2\UnitTest2.cpp(16,25): error C2065: 'str': undeclared identifier
+C:\Student\PR8.1.STRING\UnitTest2\UnitTest2.cpp(16,16): error C3861: 'foundOut': identifier not found
